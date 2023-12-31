@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sab-deleon
-- 👀 I’m interested in Sotware Development and Data Analysis.
+- 👀 I’m interested in Sotware Development and Data Science.
 - 🌱 Master of Science - MS, Business Analytics.
 - 💞️ I’m looking to collaborate on https://www.linkedin.com/in/sabrinadeleon/
 - 📫 How to reach me https://www.sabrinadeleon.com/
